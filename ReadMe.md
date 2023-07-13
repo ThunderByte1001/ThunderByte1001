@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante <br>🌱 Neste momento estou aprendendo Python<br>
+🔭 Sou estudante <br>🌱 Neste momento estou aprendendo JavaScript<br>
 
 
 # 💻 Tech Stack:
